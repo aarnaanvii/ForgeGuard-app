@@ -3,8 +3,8 @@
 Flask==3.0.3
 gunicorn==22.0.0
 numpy==1.26.4
-torch==2.2.2+cpu
-torchvision==0.17.2+cpu
+torch==2.11.0+cpu
+torchvision==0.26.0+cpu
 scikit-learn==1.4.2
 scikit-image==0.22.0
 opencv-python-headless==4.9.0.80
